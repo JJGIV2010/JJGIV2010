@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Julius.
 - My background is:
-- school: electronics embedded programming (c++, verilog)
+- school: electronics systems engineering/embedded programming (c++, verilog)
 - work: electric distribution engineering
 - business: owner, software development; usd, swift, python, cloud
 - 🌱 I like learning, building and using tools.
-- Thanks for visiting. 
+- ⚡️I have a special appreciation for electricity. :)
+- Thanks for visiting.
 - 📫 julius.guay@pxr-design.com 
 
 <!---
