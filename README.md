@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @JJGIV2010
-- 👀 I’m interested in learning.
-- 🌱 I’m currently most actively learning Python, SQL, and Universal Scene Description. 
-- 💞️ I’m looking to collaborate on anything I can help with. 
-- 📫 How to reach me: JJGIV2010@gmail.com 
+- 👋 Hi, I’m Julius.
+- 🌱 I like learning, building and using tools.
+- Thanks for visiting. 
+- 📫 julius.guay@pxr-design.com 
 
 <!---
 JJGIV2010/JJGIV2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
