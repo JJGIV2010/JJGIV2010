@@ -1,4 +1,8 @@
 - 👋 Hi, I’m Julius.
+- My background is:
+- school: electronics embedded programming (c++, verilog)
+- work: electric distribution engineering
+- business: owner, PXRD software development; usd, swift, python, cloud
 - 🌱 I like learning, building and using tools.
 - Thanks for visiting. 
 - 📫 julius.guay@pxr-design.com 
